@@ -24,11 +24,10 @@ date_format = "Jan 2006"
   location = "Reno, NV"
   date_start = "2019-02-04"
   date_end = ""
-#  description = """
+  description = """Ramp production capacity of Model 3 battery modules with automation process improvements and equipment design improvements."""
 #  * Analysing
 #  * Modelling
 #  * Deploying
-#  """
 
 [[experience]]
   title = "Engineering Intern"
@@ -37,7 +36,7 @@ date_format = "Jan 2006"
   location = "Austin, TX"
   date_start = "2018-05-01"
   date_end = "2018-12-15"
-  description = """"""
+  description = """Design and prototype early-stage products using CAD software, Arduino microcontrollers, and machine shop equipment."""
 
   [[experience]]
   title = "Launch Intern"
@@ -46,7 +45,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2017-08-17"
   date_end = "2017-12-15"
-  description = """"""
+  description = """Design, analyze, and fabricate hardware to successfully execute Crew Dragon recovery after ocean splashdown."""
 
   [[experience]]
   title = "Robotics Intern"
@@ -55,6 +54,6 @@ date_format = "Jan 2006"
   location = "Austin, TX"
   date_start = "2016-10-03"
   date_end = "2017-08-15"
-  description = """"""
+  description = """Design and fabricate test equipment and perform experiments to measure robot mechanical properties."""
 
 +++
