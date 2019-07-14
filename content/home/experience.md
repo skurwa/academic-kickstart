@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Reno, NV"
   date_start = "2019-02-04"
   date_end = ""
-  description = """Ramp production capacity of Model 3 battery modules with automation process improvements and equipment design improvements."""
+  description = """Ramp capacity of Model 3 battery module production with automation process and equipment design improvements."""
 #  * Analysing
 #  * Modelling
 #  * Deploying

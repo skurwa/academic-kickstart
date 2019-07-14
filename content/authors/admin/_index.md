@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Engineer
+role: Mechanical Engineer
 
 # Organizations/Affiliations
 # organizations:
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Engineer passionate about sharing, exploring, and executing new ideas and technology.
+Passionate about sharing, learning, and executing new ideas and technology. <br/>Teach me something new!</br>
