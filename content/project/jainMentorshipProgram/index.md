@@ -1,15 +1,12 @@
 +++
 # Date this page was created.
-# date = 2019-07-14T00:00:00
+date = 2019-07-12T00:00:00
 
 # Project title.
 title = "Jain Mentorship Program"
 
 # Project summary to display on homepage.
-summary = "Community mentorship program to guide high schoolers through college admissions process."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "avatar.jpg"
+summary = "Community mentorship program to support high schoolers through college admissions process."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

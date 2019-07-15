@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-# date = 2019-07-14T00:00:00
+date = 2018-12-02T00:00:00
 
 # Project title.
 title = "Smart Cart"

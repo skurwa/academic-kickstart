@@ -1,15 +1,12 @@
 +++
 # Date this page was created.
-# date = 2019-07-14T00:00:00
+date = 2018-10-15T00:00:00
 
 # Project title.
 title = "Ball-Toss Machine"
 
 # Project summary to display on homepage.
 summary = "Patent-pending actuated and controllable ball-pitching machine."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "avatar.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-# date = 2019-07-14T00:00:00
+date = 2017-12-14T00:00:00
 
 # Project title.
 title = "SpaceX Crew Dragon Ocean Recovery"
 
 # Project summary to display on homepage.
-summary = "Parts used to recover Crew Dragon capsule after Earth re-entry and splashdown."
+summary = "Parts designed to support Crew Dragon recovery after Earth re-entry and splashdown."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"
