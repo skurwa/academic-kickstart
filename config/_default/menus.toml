@@ -32,16 +32,16 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "files/CV - Siddharth Kurwa.pdf"
+  url = "files/SiddharthKurwa_CV.pdf"
   weight = 70
 
 [[main]]
   name = "Resume"
-  url = "files/Resume - Siddharth Kurwa.pdf"
+  url = "files/SiddharthKurwa_Resume.pdf"
   weight = 75
 
 [[main]]
   name = "Portfolio"
-  url = "files/Project Portfolio - Siddharth Kurwa.pdf"
+  url = "files/SiddharthKurwa_Portfolio.pdf"
   weight = 80
   

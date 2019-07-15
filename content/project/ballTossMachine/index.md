@@ -24,4 +24,4 @@ math = false
 
 +++
 
-This page is still in development - please see my {{% staticref "files/Project Portfolio - Siddharth Kurwa.pdf"%}}portfolio{{% /staticref %}} in the meantime. Stay tuned for updates soon!
+This page is still in development - please see my {{% staticref "files/SiddharthKurwa_Portfolio.pdf"%}}portfolio{{% /staticref %}} in the meantime. Stay tuned for updates soon!
