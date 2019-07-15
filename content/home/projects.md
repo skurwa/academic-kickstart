@@ -1,6 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
@@ -11,6 +11,7 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+  folder = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -27,23 +28,27 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Professional"
-    tag = "Professional"
+    tag = "prof"
 
   [[content.filter_button]]
     name = "Academic"
-    tag = "Academic"
+    tag = "academic"
+
+  [[content.filter_button]]
+    name = "Service"
+    tag = "service"
 
   [[content.filter_button]]
     name = "Personal"
-    tag = "Personal"
+    tag = "personal"
   
   [[content.filter_button]]
     name = "Mechatronics"
-    tag = "Mechatronics"
+    tag = "mechatronics"
 
   [[content.filter_button]]
     name = "Design"
-    tag = "Mechanical Design"
+    tag = "mech-design"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -56,7 +61,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -72,7 +77,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

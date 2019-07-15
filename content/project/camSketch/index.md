@@ -3,17 +3,17 @@
 # date = 2019-07-14T00:00:00
 
 # Project title.
-title = "Hydroponic Garden"
+title = "CamSketch"
 
 # Project summary to display on homepage.
-summary = "Design and prototype of a continuous-flow, low-maintenance custom gardening system."
+summary = "1-DOF planar sketching mechanism."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Personal", "Mechanical Design"]
+tags = ["academic", "arduino", "mechatronics", "mech-design"]
 
 # Optional external URL for project (replaces project detail page).
 
@@ -27,7 +27,7 @@ math = false
 
 +++
 
-hellooooo
+[Project Documentation](https://wikis.utexas.edu/display/RMD/CamSketch)
+[Github Repository](https://github.com/skurwa/sketching-mechanism)
 
-here's an image:
-{{< figure library="1" src="icon.png" title="A caption" >}}
+This page is still in development - please see my {{% staticref "files/Project Portfolio - Siddharth Kurwa.pdf"%}}portfolio{{% /staticref %}} in the meantime. Stay tuned for updates soon!

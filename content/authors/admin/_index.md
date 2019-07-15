@@ -1,6 +1,6 @@
 ---
 # Display name
-# name: Siddharth Kurwa
+name: Siddharth Kurwa
 
 # Username (this should match the folder name)
 authors:
@@ -50,18 +50,18 @@ social:
   link: https://github.com/skurwa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/CV - Siddharth Kurwa.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/CV - Siddharth Kurwa.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Passionate about sharing, learning, and executing new ideas and technology. <br/>Teach me something new!</br>
+Passionate about learning, sharing, and creating new ideas and technology.

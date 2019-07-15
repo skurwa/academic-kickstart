@@ -6,14 +6,14 @@
 title = "Low-Cost Menstrual Pad Fabrication"
 
 # Project summary to display on homepage.
-summary = "Prototype devices enabling the Red Cross to supply women in Syrian refugee camps with low-cost menstrual hygiene products."
+summary = "Prototype devices enabling women in Syrian refugee camps to fabricate low-cost menstrual pads."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Academic", "Mechanical Design"]
+tags = ["academic", "mech-design"]
 
 # Optional external URL for project (replaces project detail page).
 
@@ -27,7 +27,4 @@ math = false
 
 +++
 
-hellooooo
-
-here's an image:
-{{< figure library="1" src="icon.png" title="A caption" >}}
+This page is still in development - please see my {{% staticref "files/Project Portfolio - Siddharth Kurwa.pdf"%}}portfolio{{% /staticref %}} in the meantime. Stay tuned for updates soon!
