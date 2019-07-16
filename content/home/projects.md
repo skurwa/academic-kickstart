@@ -6,7 +6,9 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "<div style=\"padding-left:4px\"><a href=\"files/SiddharthKurwa_Portfolio.pdf\"{{ end }} style=\"text-decoration: none; color: black\" onMouseOver=\"this.style.color='blue'\" onMouseOut=\"this.style.color='black'\">Portfolio <i class=\"fas fa-download\"></i></a></div>"
+
+# style=\"text-decoration: none; color: black\" onMouseOver=\"this.style.color='blue'\" onMouseOut=\"this.style.color='black'\"
 
 [content]
   # Page type to display. E.g. project.
@@ -90,4 +92,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-

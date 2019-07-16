@@ -30,18 +30,19 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#   name = "CV"
+#   url = "files/SiddharthKurwa_CV.pdf"
+#   weight = 70
+
 [[main]]
-  name = "CV"
-  url = "files/SiddharthKurwa_CV.pdf"
+  post = "<i class=\"fas fa-download\"></i>"
+  name = "Resume "
+  url = "files/SiddharthKurwa_Resume.pdf"
   weight = 70
 
-[[main]]
-  name = "Resume"
-  url = "files/SiddharthKurwa_Resume.pdf"
-  weight = 75
-
-[[main]]
-  name = "Portfolio"
-  url = "files/SiddharthKurwa_Portfolio.pdf"
-  weight = 80
+# [[main]]
+#   name = "Portfolio"
+#   url = "files/SiddharthKurwa_Portfolio.pdf"
+#   weight = 80
   
