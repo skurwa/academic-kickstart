@@ -6,7 +6,7 @@ date = 2017-07-30T00:00:00
 title = "Quadcopter"
 
 # Project summary to display on homepage.
-summary = "RC, Arduino-controlled, and 3D-printed quadcopter."
+summary = "RC, 3D-printed, and Arduino-controlled quadcopter."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"

@@ -6,7 +6,7 @@ date = 2018-08-14T00:00:00
 title = "Walking Mechanism"
 
 # Project summary to display on homepage.
-summary = "3D-printed walking mechanism inspired by Theo Jansen's strandbeests."
+summary = "3D-printed walking mechanism inspired by Theo Jansen's Strandbeests."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "img/motionStudy.gif"

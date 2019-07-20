@@ -6,7 +6,7 @@ date = 2018-12-01T00:00:00
 title = "Low-Cost Menstrual Pad Fabrication"
 
 # Project summary to display on homepage.
-summary = "Prototype devices enabling women in Syrian refugee camps to fabricate low-cost menstrual pads."
+summary = "Prototypes that enable women in Syrian refugee camps to fabricate low-cost menstrual pads."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"

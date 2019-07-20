@@ -6,7 +6,7 @@ date = 2018-05-07T00:00:00
 title = "CamSketch"
 
 # Project summary to display on homepage.
-summary = "1-DOF planar sketching mechanism."
+summary = "1 degree-of-freedom planar sketching mechanism."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"

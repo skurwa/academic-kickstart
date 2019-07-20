@@ -6,7 +6,7 @@ date = 2019-02-23T00:00:00
 title = "HOSA Original Medical Innovation"
 
 # Project summary to display on homepage.
-summary = "Mentorship of high school HOSA engineering design competition team."
+summary = "Mentorship of high school HOSA design competition team."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "avatar.jpg"
