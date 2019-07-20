@@ -18,7 +18,7 @@ role: Mechanical Engineer
 #   url: "www.tesla.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Siddharth Kurwa is an engineer with a passion for sharing, exploring, and executing new ideas and technology.
+bio: Passionate about learning, sharing, and creating new ideas and technology.
 
 interests:
 - Mechatronics and automation
