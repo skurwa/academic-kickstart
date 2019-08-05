@@ -21,9 +21,10 @@ role: Mechanical Engineer
 bio: Passionate about learning, sharing, and creating new ideas and technology.
 
 interests:
-- Mechatronics and automation
-- Product development
+- Early-stage prototyping
 - Human-machine interaction
+- Mechatronics
+
 
 education:
   courses:
@@ -64,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-Passionate about learning, sharing, and creating new ideas and technology.
+I seek to develop smart products that are responsive to disturbances, transient environments, and shifting user needs.

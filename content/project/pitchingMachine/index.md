@@ -19,7 +19,7 @@ math = false
 
 +++
 
-With a team of 2 other engineers, I helped develop a pitching machine for a M3 Design client. We began with an [off-the-shelf product](http://www.athlonic.com/products/wheelerdealer) as the foundation and added or modified features until we developed all the functionality required.
+As an intern at M3 Design, I helped develop a pitching machine for a client. We began with an [off-the-shelf product](http://www.athlonic.com/products/wheelerdealer) as the foundation and added or modified features until we developed all the functionality required.
 
 While my co-worker designed and fabricated a 2 degree-of-freedom (DOF) mechanism to enable a controllable pitching window, I focused on developing pitching control. For this, I started by characterizing the existing pitching machine which used a linear solenoid (a device that creates a magnetic field to exert a linear force on a plunger) to pitch the ball.
 
