@@ -65,4 +65,6 @@ email: ""
 # - Visitors
 ---
 
-I seek to develop smart products that are responsive to disturbances, transient environments, and shifting user needs.
+I seek to develop smart product prototypes that are responsive to disturbances, transient environments, and shifting user needs.
+
+When I'm not in the office, machine shop, or maker studio, you'll find me rock climbing, hiking, or cooking.

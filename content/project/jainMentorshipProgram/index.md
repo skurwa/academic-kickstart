@@ -6,7 +6,7 @@ date = 2019-07-12T00:00:00
 title = "Jain Mentorship Program"
 
 # Project summary to display on homepage.
-summary = "Community mentorship program to support high schoolers through college admissions."
+summary = "Community mentorship program to support high school students through college admissions."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -26,8 +26,12 @@ math = false
 
 +++
 
-As 3rd year undergraduate students in 2017, my friend, Mishi, and I reflected on how we'd evolved from the people we were in high school. Our high school selves were naive, and we were fortunate to have received the necessary guidance to reach our present situations. At that moment, we felt a call to action to pass the torch forward by offering mentorship to high schoolers. We were part of a local Jain youth community - a perfect place to begin testing the waters for a high school mentorship program.
+As 3rd year undergraduate students in 2017, my friend Mishi and I reflected on how we'd evolved from the people we were in high school. Our high school selves were naive, and we were fortunate to have received guidance to achieve what we'd achieved. At that realization, we felt a call to action to pass the torch forward by offering mentorship to high school students. We were part of a local Jain youth community - a perfect place to begin testing the waters for a high school mentorship program.
 
-We designed a program to pair high school juniors and seniors who are in the thick of college preparation and admissions with college mentors. These mentors were tasked to challenge them to consider important steps and nudge them forward through monthly check-ins. Mishi and I prepared relevant and varying content for mentors to use in their discussions with mentees. Content themes included college research, selecting majors, resume editing, scholarship apps, and essay writing. Mishi and I also developed webinars, social events, and workshops to provide a broader variety of programming to meet needs of mentees. Many of the new features we began implementing in the program were conceived through feedback forms. From the program initiation, we emphasized constant mentee and mentor feedback. This feedback has enabled the program to meet user needs and desires that Mishi and I had not initially identified.
+Through hours of brainstorming and planning, we crafted a program to pair high school juniors and seniors in the thick of college preparation and admissions with college mentors. These mentors were tasked to challenge and nudge them along college applications through monthly check-ins. Mishi and I prepared relevant and varying content for mentors to use in their discussions with mentees. Content themes included college research, selecting majors, resume editing, scholarship apps, and essay writing. Mishi and I also developed webinars, social events, and workshops to provide a broader variety of programming to meet needs of mentees. Below is a sample presentation that we developed and encouraged mentors to present.
 
-In the past two years, we've connected over 30 high schoolers with college mentors and received overwhelming appreciation from mentees and mentors for developing this platform. With the 3rd year officically under way in 2019, the Jain Mentorship Program has a team of 4 coordinators and a handful of advisors to plan workshops, webinars, social events, monthly mentorship programming, and the future growth and sustenance of the program on a national level.
+<div align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgtklrgfPILIDCR-btuVdZP3XGdwIwn4eBwtE5QeZQYolgUZdfm3Yi8GtvzruZVPJaDN88JCJyC9Us/embed?start=true&loop=true&delayms=3000" frameborder="0" width="722" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+ Many of the new features we began implementing in the program were conceived through feedback forms. From the program initiation, we constantly sought out mentee and mentor feedback. This feedback loop has enabled the program to swiftly adapt to best satisfy user desires that Mishi and I had not initially identified.
+
+Over the past two years, we've connected over 30 high schoolers with college mentors and received overwhelmingly positive appreciation from mentees and mentors for building this platform. With the 3rd year officically under way in 2019, the Jain Mentorship Program has grown to a team of 4 coordinators and a handful of advisors to plan new workshops, webinars, events, content, and the future growth and sustenance of the program on a national level.
