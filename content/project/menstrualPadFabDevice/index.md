@@ -27,4 +27,10 @@ math = false
 
 +++
 
+For my senior design project, I led a team of 4 students in developing a device to fabricate low-cost menstrual pads in Syrian refugee crisis regions for the Red Cross. The project was supported by advisors, Dr. Janet Ellzey and Dr. Katherine Polston.
+
+To begin, we sought to understand the requirements of our users and function of menstrual pads by reviewing studies, discussing needs with project stakeholders, and dissecting a pad. Two of our team members (myself included) had never seen or interacted with a pad in real life, so the initial stage of understanding the product and users was critical to enable later project success.
+
+Once we understood user needs and the architecture of pads, we looked into designing the fabrication process using a function map. 
+
 This page is still in development - please see my {{% staticref "files/SiddharthKurwa_Portfolio.pdf"%}}portfolio{{% /staticref %}} in the meantime. Stay tuned for updates soon!

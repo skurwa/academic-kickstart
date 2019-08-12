@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   location = "Austin, TX"
   date_start = "2018-05-01"
   date_end = "2018-12-15"
-  description = """Design and prototype early-stage products using CAD software, Arduino microcontrollers, and machine shop equipment."""
+  description = """Design and build early-stage product prototypes using CAD software, Arduino microcontrollers, and machine shop equipment."""
 
   [[experience]]
   title = "Launch Intern"

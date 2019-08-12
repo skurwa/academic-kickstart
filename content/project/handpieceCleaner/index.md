@@ -50,3 +50,7 @@ With the mechanical and control functions solved, user interface and experience 
 With all the pieces (controls, mechanical, UI) figured out, we finally pieced the prototype together for delivery to the client. This particular project was a great experience in negotiating needs/requirements across a cross-functional team (industrial design, mechanical engineering, and controls engineering). The final prototype was a beautiful <i>and functional</i> testament to everyone's hard work and collaboration!
 
 {{< figure src="lookslikeworkslike.png" title="Final Prototype" >}}
+
+Here's a synopsis I presented on my experience with the project.
+
+<div align="center"><iframe src="https://onedrive.live.com/embed?cid=197026BD6A38CBBC&amp;resid=197026BD6A38CBBC%212771&amp;authkey=AO0uB5UsYOg2X5g&amp;em=2&amp;wdAr=1.7777777777777777" width="722px" height="431px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
