@@ -31,6 +31,10 @@ For my senior design project, I led a team of 4 students in developing a device 
 
 To begin, we sought to understand the requirements of our users and function of menstrual pads by reviewing studies, discussing needs with project stakeholders, and dissecting a pad. Two of our team members (myself included) had never seen or interacted with a pad in real life, so the initial stage of understanding the product and users was critical to enable later project success.
 
-Once we understood user needs and the architecture of pads, we looked into designing the fabrication process using a function map. 
+Once we understood user needs and the architecture of pads, we looked into designing the fabrication process using a function map.
+
+Here's the final presentation we presented on our prototype and findings:
+
+<div align="center"><iframe src="https://onedrive.live.com/embed?cid=197026BD6A38CBBC&resid=197026BD6A38CBBC%212772&authkey=AIq_K9sfGgYsurQ&em=2" width="722px" height="431px" frameborder="0"></iframe></div>
 
 This page is still in development - please see my {{% staticref "files/SiddharthKurwa_Portfolio.pdf"%}}portfolio{{% /staticref %}} in the meantime. Stay tuned for updates soon!
