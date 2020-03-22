@@ -53,4 +53,4 @@ With all the pieces (controls, mechanical, UI) figured out, we finally pieced th
 
 Here's a synopsis I presented on my experience with the project.
 
-<div align="center"><iframe src="https://onedrive.live.com/embed?cid=197026BD6A38CBBC&amp;resid=197026BD6A38CBBC%212771&amp;authkey=AO0uB5UsYOg2X5g&amp;em=2&amp;wdAr=1.7777777777777777" width="722px" height="431px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
+<div align="center"><iframe src="https://onedrive.live.com/embed?cid=197026BD6A38CBBC&amp;resid=197026BD6A38CBBC%212771&amp;authkey=AO0uB5UsYOg2X5g&amp;em=2&amp;wdAr=1.7777777777777777" width="722px" height="431px" frameborder="0"></iframe></div>

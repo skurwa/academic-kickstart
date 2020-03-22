@@ -27,11 +27,11 @@ math = false
 
 +++
 
-For my senior design project, I led a team of 4 students in developing a device to fabricate low-cost menstrual pads in Syrian refugee crisis regions for the Red Cross. The project was supported by advisors, Dr. Janet Ellzey and Dr. Katherine Polston.
+For my senior design project, I led a team of 4 students in prototyping a device to fabricate low-cost menstrual pads in Syrian refugee crisis regions. The project was sponsored by the Red Cross and advised by Dr. Janet Ellzey and Dr. Katherine Polston.
 
-To begin, we sought to understand the requirements of our users and function of menstrual pads by reviewing studies, discussing needs with project stakeholders, and dissecting a pad. Two of our team members (myself included) had never seen or interacted with a pad in real life, so the initial stage of understanding the product and users was critical to enable later project success.
+To begin, we sought to understand user requirements and function of menstrual pads by reviewing studies, discussing needs with project stakeholders, and dissecting a pad. Two of our team members (myself included) had never seen or interacted with a pad in real life, so understanding the product was critical to enable later project success.
 
-Once we understood user needs and the architecture of pads, we looked into designing the fabrication process using a function map.
+Once we had a grasp of user needs and pad design, we broke up the fabrication process in a function map.
 
 Here's the final presentation we presented on our prototype and findings:
 
